@@ -66,10 +66,10 @@ You are expected to **score yourself** by filling in the following form. You sho
 | Feature            | Score (0-5)     |
 | ------------------ | --------------- |
 | Sorting            | type your score |
-| Paging             | type your score |
-| Expanding row      | type your score |
-| Navigating to item | type your score |
-| Smart back to list | type your score |
+| Paging             | 5 |
+| Expanding row      | 5 |
+| Navigating to item | 5 |
+| Smart back to list | 5 |
 
 ---
 
