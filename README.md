@@ -65,9 +65,9 @@ You are expected to **score yourself** by filling in the following form. You sho
 
 | Feature            | Score (0-5)     |
 | ------------------ | --------------- |
-| Sorting            | type your score |
+| Sorting            | 5 |
 | Paging             | 5 |
-| Expanding row      | 5 |
+| Expanding row      | 4 |
 | Navigating to item | 5 |
 | Smart back to list | 5 |
 

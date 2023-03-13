@@ -1,19 +1,10 @@
 <template>
-  <div>
-    <h1>home</h1>
-    Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim
-    labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet.
-    Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum
-    Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident.
-    Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex
-    occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat
-    officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in
-    Lorem sunt duis officia eiusmod. Aliqua reprehenderit commodo ex non
-    excepteur duis sunt velit enim. Voluptate laboris sint cupidatat ullamco ut
-    ea consectetur et est culpa et culpa duis.
+  <div class="h-full grid content-center">
+    <h1 class="text-center text-4xl pb-10">Super Tables</h1>
+    <p class="text-center">
+      Welcome to a demo application called super tables. This is a demo for
+      Wallbid application. Navigate to
+      <nuxtLink to="/tables" class="underline text-blue-500 cursor-pointer">/tables</nuxtLink> to start
+    </p>
   </div>
 </template>
-
-<script setup></script>
-
-<style lang="scss" scoped></style>
